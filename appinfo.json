@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "fritz.heidi@gmail.com",
+    "longName": "Courteous Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/court_time_image_take2.png",
+                "menuIcon": true,
+                "name": "court_time_image_2",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Courteous Time",
+    "uuid": "02161b63-67ec-4036-a928-1ea28d93bbe0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
